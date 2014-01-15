@@ -32,3 +32,22 @@ body {
      position: absolute;
      z-index: -1;	
 }
+
+.mainHead {
+     background-color: #FFFDB1;
+     padding: 5px;
+     border-radius: 10px;
+}
+
+.subHead {
+     background-color: #604A6A;
+     padding-left: 20px;
+     border-radius: 3px;
+     color: yellow;
+}    
+
+.project {
+     border: 5px solid red;
+     margin: 4px;
+     padding: 5px;
+}
